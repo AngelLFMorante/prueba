@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AngelLFMorante)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@alfemodev.com)
 
 I am currently studying a higher degree in Multiplatform Application Development in Luis Vives, Leganés, I only need an internship in the company and to do my final project in September.. During this course I have learned a lot about backend development and I have used different technologies. Always attentive to renew myself and learn more about other languages.
 
@@ -11,14 +11,14 @@ Welcome to my Github page! I am Mario and I am currently finishing my higher deg
 ### 💼  Things that I'm currently studing on: 
 I develop software of all kinds and always try to learn new concepts. Each application to be developed is a world to be discovered 
 
-- Completing my higher degree
-- Take online courses on programming and development, especially OpenWebinars.
+- 
+- 
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+- 
+- 
+- 
+-
 
 #### :computer: Programming languages and tools: 
 <p>
