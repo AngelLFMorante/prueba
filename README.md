@@ -4,9 +4,12 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@alfemodev.com)
 
-I am currently studying a higher degree in Multiplatform Application Development in Luis Vives, Leganés, I only need an internship in the company and to do my final project in September.. During this course I have learned a lot about backend development and I have used different technologies. Always attentive to renew myself and learn more about other languages.
+I am Angel developer.
+I am currently working on Back-End development with Java and SpringBoot.
 
-Welcome to my Github page! I am Mario and I am currently finishing my higher degree at the university of Leganes!  
+I have 2 higher degrees, "Web Application Development" and "Multiplatform Application Development".
+
+I have been since 2018 in the world of technology, 3 years of studies, 2 years in the working world, plus self-taught studies in my free hours by the platforms of : OpenWebinars and Udemy.
 
 ### 💼  Things that I'm currently studing on: 
 I develop software of all kinds and always try to learn new concepts. Each application to be developed is a world to be discovered 
